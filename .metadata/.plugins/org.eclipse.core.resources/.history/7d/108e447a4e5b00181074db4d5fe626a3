@@ -1,0 +1,10 @@
+package com.example.myappm.domain;
+
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+
+public class Journal {
+
+}

@@ -1,0 +1,16 @@
+package com.example.myappm;
+
+import org.springframework.beans.factory.InitalizingBean;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+
+
+
+@SpringBootApplication
+public class MyappmApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MyappmApplication.class, args);
+	}
+}
